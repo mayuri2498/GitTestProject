@@ -1,9 +1,9 @@
 Hello World!!!!
 
-change - for login feature
+Change -> for login feature
 
-change - payment feature
+Change -> payment feature
 
-change - to fix bug1
+Change -> to fix bug1
 
-chang - made by everyone
+Change -> made by everyone
