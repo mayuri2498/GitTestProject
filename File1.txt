@@ -7,3 +7,5 @@ Change -> payment feature
 Change -> to fix bug1
 
 Change -> made by everyone
+
+Change -> made by team mate
